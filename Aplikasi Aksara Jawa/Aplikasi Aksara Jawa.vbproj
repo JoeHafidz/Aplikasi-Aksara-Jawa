@@ -150,6 +150,12 @@
     <Compile Include="frm_sandangan.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="frm_terjemah.Designer.vb">
+      <DependentUpon>frm_terjemah.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_terjemah.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -188,6 +194,9 @@
     <EmbeddedResource Include="frm_paribasan.resx">
       <DependentUpon>frm_paribasan.vb</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frm_terjemah.resx">
+      <DependentUpon>frm_terjemah.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.vb</LastGenOutput>
@@ -219,6 +228,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <None Include="Resources\hanacaraka.TTF" />
     <None Include="Resources\tunyukan.png" />
   </ItemGroup>
   <ItemGroup>

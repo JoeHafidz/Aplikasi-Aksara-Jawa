@@ -60,3 +60,4 @@ D:\MyDocument\Visual Studio 2010\Projects\Aplikasi-Aksara-Jawa\Aplikasi Aksara J
 D:\MyDocument\Visual Studio 2010\Projects\Aplikasi-Aksara-Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\Aplikasi_Aksara_Jawa.frm_paribasan.resources
 D:\MyDocument\Visual Studio 2010\Projects\Aplikasi-Aksara-Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\Aplikasi_Aksara_Jawa.Resources.resources
 D:\MyDocument\Visual Studio 2010\Projects\Aplikasi-Aksara-Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\Aplikasi Aksara Jawa.vbproj.GenerateResource.Cache
+D:\MyDocument\Visual Studio 2010\Projects\Aplikasi-Aksara-Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\Aplikasi_Aksara_Jawa.frm_terjemah.resources

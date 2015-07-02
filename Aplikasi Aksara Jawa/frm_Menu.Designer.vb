@@ -27,6 +27,7 @@ Partial Class frm_Menu
         Me.btn_paribasan = New System.Windows.Forms.Button()
         Me.btn_parikan = New System.Windows.Forms.Button()
         Me.btn_latihan = New System.Windows.Forms.Button()
+        Me.btn_terjemah = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'btn_aksara
@@ -74,11 +75,21 @@ Partial Class frm_Menu
         Me.btn_latihan.Text = "Latihan"
         Me.btn_latihan.UseVisualStyleBackColor = True
         '
+        'btn_terjemah
+        '
+        Me.btn_terjemah.Location = New System.Drawing.Point(167, 196)
+        Me.btn_terjemah.Name = "btn_terjemah"
+        Me.btn_terjemah.Size = New System.Drawing.Size(104, 41)
+        Me.btn_terjemah.TabIndex = 5
+        Me.btn_terjemah.Text = "Terjemah"
+        Me.btn_terjemah.UseVisualStyleBackColor = True
+        '
         'frm_Menu
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(284, 261)
+        Me.Controls.Add(Me.btn_terjemah)
         Me.Controls.Add(Me.btn_latihan)
         Me.Controls.Add(Me.btn_parikan)
         Me.Controls.Add(Me.btn_paribasan)
@@ -98,4 +109,5 @@ Partial Class frm_Menu
     Friend WithEvents btn_paribasan As System.Windows.Forms.Button
     Friend WithEvents btn_parikan As System.Windows.Forms.Button
     Friend WithEvents btn_latihan As System.Windows.Forms.Button
+    Friend WithEvents btn_terjemah As System.Windows.Forms.Button
 End Class

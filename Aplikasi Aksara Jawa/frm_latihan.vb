@@ -1,13 +1,17 @@
 ﻿Public Class frm_latihan
 
     
-    Private Sub btn_check_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btn_check.Click
 
-        If txt_jawab.Text = "Jaran" Or txt_jawab.Text = "jaran" Then
-            lbl_Status.Text = "Benar"
-        Else
-            lbl_Status.Text = "Salah"
-        End If
+    
+    Private Sub Label1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Label1.Click
+
+    End Sub
+
+    Private Sub frm_latihan_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
+
+    End Sub
+
+    Private Sub Label6_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles lbl_soal2.Click
 
     End Sub
 End Class

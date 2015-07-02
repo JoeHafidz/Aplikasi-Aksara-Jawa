@@ -23,4 +23,8 @@
     Private Sub btn_latihan_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btn_latihan.Click
         frm_latihan.Show()
     End Sub
+
+    Private Sub btn_terjemah_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btn_terjemah.Click
+        frm_terjemah.Show()
+    End Sub
 End Class
