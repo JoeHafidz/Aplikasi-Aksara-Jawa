@@ -1,0 +1,316 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{EB249C5E-820D-4F7C-9643-EBBE5F0DE853}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Aplikasi_Aksara_Jawa.My.MyApplication</StartupObject>
+    <RootNamespace>Aplikasi_Aksara_Jawa</RootNamespace>
+    <AssemblyName>Aplikasi Aksara Jawa</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Aplikasi Aksara Jawa.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Aplikasi Aksara Jawa.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="dbaksarajawaDataObject.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbaksarajawaDataObject.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="frm_AksaraJawa.Designer.vb">
+      <DependentUpon>frm_AksaraJawa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_AksaraJawa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_aksara_angka.Designer.vb">
+      <DependentUpon>frm_aksara_angka.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_aksara_angka.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_contoh.Designer.vb">
+      <DependentUpon>frm_contoh.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_contoh.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Cover.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Cover.Designer.vb">
+      <DependentUpon>frm_Cover.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_hanacaraka.Designer.vb">
+      <DependentUpon>frm_hanacaraka.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_hanacaraka.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_kosa_kata.Designer.vb">
+      <DependentUpon>frm_kosa_kata.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_kosa_kata.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_latihan.Designer.vb">
+      <DependentUpon>frm_latihan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_latihan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Menu.Designer.vb">
+      <DependentUpon>frm_Menu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Menu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_paribasan.Designer.vb">
+      <DependentUpon>frm_paribasan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_paribasan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_parikan.Designer.vb">
+      <DependentUpon>frm_parikan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_parikan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Pasangan.Designer.vb">
+      <DependentUpon>frm_Pasangan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Pasangan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_sandangan.Designer.vb">
+      <DependentUpon>frm_sandangan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_sandangan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frm_AksaraJawa.resx">
+      <DependentUpon>frm_AksaraJawa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Cover.resx">
+      <DependentUpon>frm_Cover.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_hanacaraka.resx">
+      <DependentUpon>frm_hanacaraka.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_kosa_kata.resx">
+      <DependentUpon>frm_kosa_kata.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_latihan.resx">
+      <DependentUpon>frm_latihan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Menu.resx">
+      <DependentUpon>frm_Menu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_paribasan.resx">
+      <DependentUpon>frm_paribasan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="dbaksarajawaDataObject.xsc">
+      <DependentUpon>dbaksarajawaDataObject.xsd</DependentUpon>
+    </None>
+    <None Include="dbaksarajawaDataObject.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dbaksarajawaDataObject.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dbaksarajawaDataObject.xss">
+      <DependentUpon>dbaksarajawaDataObject.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tunyukan.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ca.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ha.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ka.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\na.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ra.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\da.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dha.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ja.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\la.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nya.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pa.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sa.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ta.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wa.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ya.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ba.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ga.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ma.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nga.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tha.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="dbaksarajawa.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

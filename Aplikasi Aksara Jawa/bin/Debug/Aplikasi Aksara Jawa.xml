@@ -1,0 +1,156 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AplikasiAksaraJawa
+</name>
+</assembly>
+<members>
+<member name="T:Aplikasi_Aksara_Jawa.dbaksarajawaDataObject.tb_kosakataDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Aplikasi_Aksara_Jawa.dbaksarajawaDataObject.tb_kosakataRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Aplikasi_Aksara_Jawa.dbaksarajawaDataObject.tb_kosakataRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Aplikasi_Aksara_Jawa.dbaksarajawaDataObject">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Aplikasi_Aksara_Jawa.dbaksarajawaDataObjectTableAdapters.tb_kosakataTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Aplikasi_Aksara_Jawa.dbaksarajawaDataObjectTableAdapters.TableAdapterManager.UpdateUpdatedRows(Aplikasi_Aksara_Jawa.dbaksarajawaDataObject,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Aplikasi_Aksara_Jawa.dbaksarajawaDataObjectTableAdapters.TableAdapterManager.UpdateInsertedRows(Aplikasi_Aksara_Jawa.dbaksarajawaDataObject,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Aplikasi_Aksara_Jawa.dbaksarajawaDataObjectTableAdapters.TableAdapterManager.UpdateDeletedRows(Aplikasi_Aksara_Jawa.dbaksarajawaDataObject,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Aplikasi_Aksara_Jawa.dbaksarajawaDataObjectTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Aplikasi_Aksara_Jawa.dbaksarajawaDataObjectTableAdapters.TableAdapterManager.UpdateAll(Aplikasi_Aksara_Jawa.dbaksarajawaDataObject)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Aplikasi_Aksara_Jawa.dbaksarajawaDataObjectTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Aplikasi_Aksara_Jawa.dbaksarajawaDataObjectTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Aplikasi_Aksara_Jawa.dbaksarajawaDataObjectTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:Aplikasi_Aksara_Jawa.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Aplikasi_Aksara_Jawa.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Aplikasi_Aksara_Jawa.My.Resources.Resources.ba">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:Aplikasi_Aksara_Jawa.My.Resources.Resources.ca">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:Aplikasi_Aksara_Jawa.My.Resources.Resources.da">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:Aplikasi_Aksara_Jawa.My.Resources.Resources.dha">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:Aplikasi_Aksara_Jawa.My.Resources.Resources.ga">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:Aplikasi_Aksara_Jawa.My.Resources.Resources.ha">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:Aplikasi_Aksara_Jawa.My.Resources.Resources.ja">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:Aplikasi_Aksara_Jawa.My.Resources.Resources.ka">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:Aplikasi_Aksara_Jawa.My.Resources.Resources.la">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:Aplikasi_Aksara_Jawa.My.Resources.Resources.ma">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:Aplikasi_Aksara_Jawa.My.Resources.Resources.na">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:Aplikasi_Aksara_Jawa.My.Resources.Resources.nga">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:Aplikasi_Aksara_Jawa.My.Resources.Resources.nya">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:Aplikasi_Aksara_Jawa.My.Resources.Resources.pa">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:Aplikasi_Aksara_Jawa.My.Resources.Resources.ra">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:Aplikasi_Aksara_Jawa.My.Resources.Resources.sa">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:Aplikasi_Aksara_Jawa.My.Resources.Resources.ta">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:Aplikasi_Aksara_Jawa.My.Resources.Resources.tha">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:Aplikasi_Aksara_Jawa.My.Resources.Resources.wa">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:Aplikasi_Aksara_Jawa.My.Resources.Resources.ya">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="T:Aplikasi_Aksara_Jawa.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

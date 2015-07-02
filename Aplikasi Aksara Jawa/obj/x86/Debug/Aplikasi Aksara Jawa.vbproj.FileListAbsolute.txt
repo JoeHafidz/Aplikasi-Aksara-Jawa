@@ -1,0 +1,62 @@
+d:\mydocument\visual studio 2010\Projects\Aplikasi Aksara Jawa\Aplikasi Aksara Jawa\bin\Debug\Aplikasi Aksara Jawa.exe
+d:\mydocument\visual studio 2010\Projects\Aplikasi Aksara Jawa\Aplikasi Aksara Jawa\bin\Debug\Aplikasi Aksara Jawa.pdb
+d:\mydocument\visual studio 2010\Projects\Aplikasi Aksara Jawa\Aplikasi Aksara Jawa\bin\Debug\Aplikasi Aksara Jawa.xml
+d:\mydocument\visual studio 2010\Projects\Aplikasi Aksara Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\Aplikasi_Aksara_Jawa.Resources.resources
+d:\mydocument\visual studio 2010\Projects\Aplikasi Aksara Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\Aplikasi Aksara Jawa.vbproj.GenerateResource.Cache
+d:\mydocument\visual studio 2010\Projects\Aplikasi Aksara Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\Aplikasi Aksara Jawa.exe
+d:\mydocument\visual studio 2010\Projects\Aplikasi Aksara Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\Aplikasi Aksara Jawa.xml
+d:\mydocument\visual studio 2010\Projects\Aplikasi Aksara Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\Aplikasi Aksara Jawa.pdb
+d:\mydocument\visual studio 2010\Projects\Aplikasi Aksara Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\Aplikasi_Aksara_Jawa.frm_Cover.resources
+d:\mydocument\visual studio 2010\Projects\Aplikasi Aksara Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\Aplikasi_Aksara_Jawa.frm_Menu.resources
+d:\mydocument\visual studio 2010\Projects\Aplikasi Aksara Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\Aplikasi_Aksara_Jawa.frm_AksaraJawa.resources
+d:\mydocument\visual studio 2010\Projects\Aplikasi Aksara Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\Aplikasi_Aksara_Jawa.frm_hanacaraka.resources
+d:\mydocument\visual studio 2010\Projects\Aplikasi Aksara Jawa\Aplikasi Aksara Jawa\bin\Debug\Interop.WMPLib.dll
+d:\mydocument\visual studio 2010\Projects\Aplikasi Aksara Jawa\Aplikasi Aksara Jawa\bin\Debug\AxInterop.WMPLib.dll
+d:\mydocument\visual studio 2010\Projects\Aplikasi Aksara Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\Interop.WMPLib.dll
+d:\mydocument\visual studio 2010\Projects\Aplikasi Aksara Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\AxInterop.WMPLib.dll
+d:\mydocument\visual studio 2010\Projects\Aplikasi Aksara Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\Aplikasi Aksara Jawa.vbproj.ResolveComReference.cache
+D:\DATA HAFIDZ\Aplikasi Aksara Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\Interop.WMPLib.dll
+D:\DATA HAFIDZ\Aplikasi Aksara Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\DATA HAFIDZ\Aplikasi Aksara Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\Aplikasi Aksara Jawa.vbproj.ResolveComReference.cache
+D:\DATA HAFIDZ\Aplikasi Aksara Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\Aplikasi Aksara Jawa.exe
+D:\DATA HAFIDZ\Aplikasi Aksara Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\Aplikasi Aksara Jawa.xml
+D:\DATA HAFIDZ\Aplikasi Aksara Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\Aplikasi Aksara Jawa.pdb
+D:\DATA HAFIDZ\Aplikasi Aksara Jawa\Aplikasi Aksara Jawa\bin\Debug\Aplikasi Aksara Jawa.exe
+D:\DATA HAFIDZ\Aplikasi Aksara Jawa\Aplikasi Aksara Jawa\bin\Debug\Aplikasi Aksara Jawa.pdb
+D:\DATA HAFIDZ\Aplikasi Aksara Jawa\Aplikasi Aksara Jawa\bin\Debug\Aplikasi Aksara Jawa.xml
+D:\DATA HAFIDZ\Aplikasi Aksara Jawa\Aplikasi Aksara Jawa\bin\Debug\Interop.WMPLib.dll
+D:\DATA HAFIDZ\Aplikasi Aksara Jawa\Aplikasi Aksara Jawa\bin\Debug\AxInterop.WMPLib.dll
+D:\DATA HAFIDZ\Aplikasi Aksara Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\Aplikasi_Aksara_Jawa.frm_AksaraJawa.resources
+D:\DATA HAFIDZ\Aplikasi Aksara Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\Aplikasi_Aksara_Jawa.frm_Cover.resources
+D:\DATA HAFIDZ\Aplikasi Aksara Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\Aplikasi_Aksara_Jawa.frm_hanacaraka.resources
+D:\DATA HAFIDZ\Aplikasi Aksara Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\Aplikasi_Aksara_Jawa.frm_Menu.resources
+D:\DATA HAFIDZ\Aplikasi Aksara Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\Aplikasi_Aksara_Jawa.Resources.resources
+D:\DATA HAFIDZ\Aplikasi Aksara Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\Aplikasi Aksara Jawa.vbproj.GenerateResource.Cache
+D:\DATA HAFIDZ\Aplikasi Aksara Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\Aplikasi_Aksara_Jawa.frm_latihan.resources
+D:\MyDocument\Visual Studio 2010\Projects\Aplikasi Aksara Jawa\Aplikasi Aksara Jawa\bin\Debug\dbaksarajawa.accdb
+D:\MyDocument\Visual Studio 2010\Projects\Aplikasi Aksara Jawa\Aplikasi Aksara Jawa\bin\Debug\Aplikasi Aksara Jawa.exe.config
+D:\MyDocument\Visual Studio 2010\Projects\Aplikasi Aksara Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\Aplikasi_Aksara_Jawa.frm_kosa_kata.resources
+D:\MyDocument\Visual Studio 2010\Projects\Aplikasi Aksara Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\Aplikasi_Aksara_Jawa.frm_latihan.resources
+D:\MyDocument\Visual Studio 2010\Projects\Aplikasi Aksara Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\Aplikasi_Aksara_Jawa.frm_paribasan.resources
+D:\MyDocument\Visual Studio 2010\Projects\Aplikasi-Aksara-Jawa\Aplikasi Aksara Jawa\bin\Debug\Aplikasi Aksara Jawa.exe.config
+D:\MyDocument\Visual Studio 2010\Projects\Aplikasi-Aksara-Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\Interop.WMPLib.dll
+D:\MyDocument\Visual Studio 2010\Projects\Aplikasi-Aksara-Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\MyDocument\Visual Studio 2010\Projects\Aplikasi-Aksara-Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\Aplikasi Aksara Jawa.vbproj.ResolveComReference.cache
+D:\MyDocument\Visual Studio 2010\Projects\Aplikasi-Aksara-Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\Aplikasi Aksara Jawa.exe
+D:\MyDocument\Visual Studio 2010\Projects\Aplikasi-Aksara-Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\Aplikasi Aksara Jawa.xml
+D:\MyDocument\Visual Studio 2010\Projects\Aplikasi-Aksara-Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\Aplikasi Aksara Jawa.pdb
+D:\MyDocument\Visual Studio 2010\Projects\Aplikasi-Aksara-Jawa\Aplikasi Aksara Jawa\bin\Debug\dbaksarajawa.accdb
+D:\MyDocument\Visual Studio 2010\Projects\Aplikasi-Aksara-Jawa\Aplikasi Aksara Jawa\bin\Debug\Aplikasi Aksara Jawa.exe
+D:\MyDocument\Visual Studio 2010\Projects\Aplikasi-Aksara-Jawa\Aplikasi Aksara Jawa\bin\Debug\Aplikasi Aksara Jawa.pdb
+D:\MyDocument\Visual Studio 2010\Projects\Aplikasi-Aksara-Jawa\Aplikasi Aksara Jawa\bin\Debug\Aplikasi Aksara Jawa.xml
+D:\MyDocument\Visual Studio 2010\Projects\Aplikasi-Aksara-Jawa\Aplikasi Aksara Jawa\bin\Debug\Interop.WMPLib.dll
+D:\MyDocument\Visual Studio 2010\Projects\Aplikasi-Aksara-Jawa\Aplikasi Aksara Jawa\bin\Debug\AxInterop.WMPLib.dll
+D:\MyDocument\Visual Studio 2010\Projects\Aplikasi-Aksara-Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\Aplikasi_Aksara_Jawa.frm_AksaraJawa.resources
+D:\MyDocument\Visual Studio 2010\Projects\Aplikasi-Aksara-Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\Aplikasi_Aksara_Jawa.frm_Cover.resources
+D:\MyDocument\Visual Studio 2010\Projects\Aplikasi-Aksara-Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\Aplikasi_Aksara_Jawa.frm_hanacaraka.resources
+D:\MyDocument\Visual Studio 2010\Projects\Aplikasi-Aksara-Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\Aplikasi_Aksara_Jawa.frm_kosa_kata.resources
+D:\MyDocument\Visual Studio 2010\Projects\Aplikasi-Aksara-Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\Aplikasi_Aksara_Jawa.frm_latihan.resources
+D:\MyDocument\Visual Studio 2010\Projects\Aplikasi-Aksara-Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\Aplikasi_Aksara_Jawa.frm_Menu.resources
+D:\MyDocument\Visual Studio 2010\Projects\Aplikasi-Aksara-Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\Aplikasi_Aksara_Jawa.frm_paribasan.resources
+D:\MyDocument\Visual Studio 2010\Projects\Aplikasi-Aksara-Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\Aplikasi_Aksara_Jawa.Resources.resources
+D:\MyDocument\Visual Studio 2010\Projects\Aplikasi-Aksara-Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\Aplikasi Aksara Jawa.vbproj.GenerateResource.Cache
