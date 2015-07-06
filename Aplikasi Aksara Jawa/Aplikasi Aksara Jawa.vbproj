@@ -176,6 +176,12 @@
     <EmbeddedResource Include="frm_AksaraJawa.resx">
       <DependentUpon>frm_AksaraJawa.vb</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frm_aksara_angka.resx">
+      <DependentUpon>frm_aksara_angka.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_contoh.resx">
+      <DependentUpon>frm_contoh.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frm_Cover.resx">
       <DependentUpon>frm_Cover.vb</DependentUpon>
     </EmbeddedResource>
@@ -193,6 +199,15 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frm_paribasan.resx">
       <DependentUpon>frm_paribasan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_parikan.resx">
+      <DependentUpon>frm_parikan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Pasangan.resx">
+      <DependentUpon>frm_Pasangan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_sandangan.resx">
+      <DependentUpon>frm_sandangan.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frm_terjemah.resx">
       <DependentUpon>frm_terjemah.vb</DependentUpon>
@@ -314,6 +329,9 @@
     <Content Include="dbaksarajawa.accdb">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <None Include="Resources\800px-Angka_Jawa_%28Javanese_numbers%29.png" />
+    <None Include="Resources\aksara-jawa-sandhangan.png" />
+    <None Include="Resources\aksara-jawa-aksara-pasangan.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

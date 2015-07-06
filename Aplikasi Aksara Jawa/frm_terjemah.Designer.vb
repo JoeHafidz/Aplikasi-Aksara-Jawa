@@ -63,7 +63,7 @@ Partial Class frm_terjemah
         Me.Controls.Add(Me.txt_input)
         Me.Name = "frm_terjemah"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
-        Me.Text = "."
+        Me.Text = "Terjemah"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 

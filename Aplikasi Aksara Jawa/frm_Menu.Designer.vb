@@ -32,7 +32,7 @@ Partial Class frm_Menu
         '
         'btn_aksara
         '
-        Me.btn_aksara.Location = New System.Drawing.Point(12, 62)
+        Me.btn_aksara.Location = New System.Drawing.Point(12, 17)
         Me.btn_aksara.Name = "btn_aksara"
         Me.btn_aksara.Size = New System.Drawing.Size(102, 41)
         Me.btn_aksara.TabIndex = 0
@@ -41,7 +41,7 @@ Partial Class frm_Menu
         '
         'btn_kosa_kata
         '
-        Me.btn_kosa_kata.Location = New System.Drawing.Point(166, 62)
+        Me.btn_kosa_kata.Location = New System.Drawing.Point(166, 17)
         Me.btn_kosa_kata.Name = "btn_kosa_kata"
         Me.btn_kosa_kata.Size = New System.Drawing.Size(106, 41)
         Me.btn_kosa_kata.TabIndex = 1
@@ -50,7 +50,7 @@ Partial Class frm_Menu
         '
         'btn_paribasan
         '
-        Me.btn_paribasan.Location = New System.Drawing.Point(13, 128)
+        Me.btn_paribasan.Location = New System.Drawing.Point(13, 83)
         Me.btn_paribasan.Name = "btn_paribasan"
         Me.btn_paribasan.Size = New System.Drawing.Size(101, 45)
         Me.btn_paribasan.TabIndex = 2
@@ -59,7 +59,7 @@ Partial Class frm_Menu
         '
         'btn_parikan
         '
-        Me.btn_parikan.Location = New System.Drawing.Point(166, 128)
+        Me.btn_parikan.Location = New System.Drawing.Point(166, 83)
         Me.btn_parikan.Name = "btn_parikan"
         Me.btn_parikan.Size = New System.Drawing.Size(106, 45)
         Me.btn_parikan.TabIndex = 3
@@ -68,7 +68,7 @@ Partial Class frm_Menu
         '
         'btn_latihan
         '
-        Me.btn_latihan.Location = New System.Drawing.Point(13, 196)
+        Me.btn_latihan.Location = New System.Drawing.Point(13, 151)
         Me.btn_latihan.Name = "btn_latihan"
         Me.btn_latihan.Size = New System.Drawing.Size(101, 42)
         Me.btn_latihan.TabIndex = 4
@@ -77,7 +77,7 @@ Partial Class frm_Menu
         '
         'btn_terjemah
         '
-        Me.btn_terjemah.Location = New System.Drawing.Point(167, 196)
+        Me.btn_terjemah.Location = New System.Drawing.Point(167, 151)
         Me.btn_terjemah.Name = "btn_terjemah"
         Me.btn_terjemah.Size = New System.Drawing.Size(104, 41)
         Me.btn_terjemah.TabIndex = 5

@@ -6,59 +6,7 @@ AplikasiAksaraJawa
 </name>
 </assembly>
 <members>
-<member name="T:Aplikasi_Aksara_Jawa.dbaksarajawaDataObject.tb_kosakataDataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:Aplikasi_Aksara_Jawa.dbaksarajawaDataObject.tb_kosakataRow">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:Aplikasi_Aksara_Jawa.dbaksarajawaDataObject.tb_kosakataRowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:Aplikasi_Aksara_Jawa.dbaksarajawaDataObject">
-	<summary>
-Represents a strongly typed in-memory cache of data.
-</summary>
-</member><member name="T:Aplikasi_Aksara_Jawa.dbaksarajawaDataObjectTableAdapters.tb_kosakataTableAdapter">
-	<summary>
-Represents the connection and commands used to retrieve and save data.
-</summary>
-</member><member name="M:Aplikasi_Aksara_Jawa.dbaksarajawaDataObjectTableAdapters.TableAdapterManager.UpdateUpdatedRows(Aplikasi_Aksara_Jawa.dbaksarajawaDataObject,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
-	<summary>
-Update rows in top-down order.
-</summary>
-</member><member name="M:Aplikasi_Aksara_Jawa.dbaksarajawaDataObjectTableAdapters.TableAdapterManager.UpdateInsertedRows(Aplikasi_Aksara_Jawa.dbaksarajawaDataObject,System.Collections.Generic.List{System.Data.DataRow})">
-	<summary>
-Insert rows in top-down order.
-</summary>
-</member><member name="M:Aplikasi_Aksara_Jawa.dbaksarajawaDataObjectTableAdapters.TableAdapterManager.UpdateDeletedRows(Aplikasi_Aksara_Jawa.dbaksarajawaDataObject,System.Collections.Generic.List{System.Data.DataRow})">
-	<summary>
-Delete rows in bottom-up order.
-</summary>
-</member><member name="M:Aplikasi_Aksara_Jawa.dbaksarajawaDataObjectTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
-	<summary>
-Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
-</summary>
-</member><member name="M:Aplikasi_Aksara_Jawa.dbaksarajawaDataObjectTableAdapters.TableAdapterManager.UpdateAll(Aplikasi_Aksara_Jawa.dbaksarajawaDataObject)">
-	<summary>
-Update all changes to the dataset.
-</summary>
-</member><member name="T:Aplikasi_Aksara_Jawa.dbaksarajawaDataObjectTableAdapters.TableAdapterManager.UpdateOrderOption">
-	<summary>
-Update Order Option
-</summary>
-</member><member name="T:Aplikasi_Aksara_Jawa.dbaksarajawaDataObjectTableAdapters.TableAdapterManager.SelfReferenceComparer">
-	<summary>
-Used to sort self-referenced table's rows
-</summary>
-</member><member name="T:Aplikasi_Aksara_Jawa.dbaksarajawaDataObjectTableAdapters.TableAdapterManager">
-	<summary>
-TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
-</summary>
-</member><member name="P:Aplikasi_Aksara_Jawa.My.Resources.Resources.ResourceManager">
+<member name="P:Aplikasi_Aksara_Jawa.My.Resources.Resources.ResourceManager">
 	<summary>
   Returns the cached ResourceManager instance used by this class.
 </summary>
@@ -66,6 +14,18 @@ TableAdapterManager is used to coordinate TableAdapters in the dataset to enable
 	<summary>
   Overrides the current thread's CurrentUICulture property for all
   resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Aplikasi_Aksara_Jawa.My.Resources.Resources._800px_Angka_Jawa__Javanese_numbers_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Aplikasi_Aksara_Jawa.My.Resources.Resources.aksara_jawa_aksara_pasangan">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Aplikasi_Aksara_Jawa.My.Resources.Resources.aksara_jawa_sandhangan">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member><member name="P:Aplikasi_Aksara_Jawa.My.Resources.Resources.ba">
 	<summary>
@@ -91,7 +51,7 @@ TableAdapterManager is used to coordinate TableAdapters in the dataset to enable
 	<summary>
   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
 </summary>
-</member><member name="P:Aplikasi_Aksara_Jawa.My.Resources.Resources.HANAN___">
+</member><member name="P:Aplikasi_Aksara_Jawa.My.Resources.Resources.hanacaraka">
 	<summary>
   Looks up a localized resource of type System.Byte[].
 </summary>
@@ -154,6 +114,58 @@ TableAdapterManager is used to coordinate TableAdapters in the dataset to enable
 </member><member name="T:Aplikasi_Aksara_Jawa.My.Resources.Resources">
 	<summary>
   A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:Aplikasi_Aksara_Jawa.dbaksarajawaDataObject.tb_kosakataDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Aplikasi_Aksara_Jawa.dbaksarajawaDataObject.tb_kosakataRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Aplikasi_Aksara_Jawa.dbaksarajawaDataObject.tb_kosakataRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Aplikasi_Aksara_Jawa.dbaksarajawaDataObject">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Aplikasi_Aksara_Jawa.dbaksarajawaDataObjectTableAdapters.tb_kosakataTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Aplikasi_Aksara_Jawa.dbaksarajawaDataObjectTableAdapters.TableAdapterManager.UpdateUpdatedRows(Aplikasi_Aksara_Jawa.dbaksarajawaDataObject,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Aplikasi_Aksara_Jawa.dbaksarajawaDataObjectTableAdapters.TableAdapterManager.UpdateInsertedRows(Aplikasi_Aksara_Jawa.dbaksarajawaDataObject,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Aplikasi_Aksara_Jawa.dbaksarajawaDataObjectTableAdapters.TableAdapterManager.UpdateDeletedRows(Aplikasi_Aksara_Jawa.dbaksarajawaDataObject,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Aplikasi_Aksara_Jawa.dbaksarajawaDataObjectTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Aplikasi_Aksara_Jawa.dbaksarajawaDataObjectTableAdapters.TableAdapterManager.UpdateAll(Aplikasi_Aksara_Jawa.dbaksarajawaDataObject)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Aplikasi_Aksara_Jawa.dbaksarajawaDataObjectTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Aplikasi_Aksara_Jawa.dbaksarajawaDataObjectTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Aplikasi_Aksara_Jawa.dbaksarajawaDataObjectTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
 </summary>
 </member>
 </members>

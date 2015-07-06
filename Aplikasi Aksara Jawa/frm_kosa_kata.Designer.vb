@@ -24,18 +24,18 @@ Partial Class frm_kosa_kata
     Private Sub InitializeComponent()
         Me.components = New System.ComponentModel.Container()
         Me.KosaKataData = New System.Windows.Forms.DataGridView()
-        Me.dataBaseBinding = New System.Windows.Forms.BindingSource(Me.components)
-        Me.DbaksarajawaDataObject = New Aplikasi_Aksara_Jawa.dbaksarajawaDataObject()
-        Me.TbkosakataBindingSource = New System.Windows.Forms.BindingSource(Me.components)
-        Me.Tb_kosakataTableAdapter = New Aplikasi_Aksara_Jawa.dbaksarajawaDataObjectTableAdapters.tb_kosakataTableAdapter()
         Me.NamaDataGridViewTextBoxColumn = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.NgokoDataGridViewTextBoxColumn = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.KramaDataGridViewTextBoxColumn = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.KramainggilDataGridViewTextBoxColumn = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.TbkosakataBindingSource = New System.Windows.Forms.BindingSource(Me.components)
+        Me.DbaksarajawaDataObject = New Aplikasi_Aksara_Jawa.dbaksarajawaDataObject()
+        Me.dataBaseBinding = New System.Windows.Forms.BindingSource(Me.components)
+        Me.Tb_kosakataTableAdapter = New Aplikasi_Aksara_Jawa.dbaksarajawaDataObjectTableAdapters.tb_kosakataTableAdapter()
         CType(Me.KosaKataData, System.ComponentModel.ISupportInitialize).BeginInit()
-        CType(Me.dataBaseBinding, System.ComponentModel.ISupportInitialize).BeginInit()
-        CType(Me.DbaksarajawaDataObject, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.TbkosakataBindingSource, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.DbaksarajawaDataObject, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.dataBaseBinding, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'KosaKataData
@@ -52,25 +52,6 @@ Partial Class frm_kosa_kata
         Me.KosaKataData.ReadOnly = True
         Me.KosaKataData.Size = New System.Drawing.Size(446, 257)
         Me.KosaKataData.TabIndex = 0
-        '
-        'dataBaseBinding
-        '
-        Me.dataBaseBinding.DataSource = Me.DbaksarajawaDataObject
-        Me.dataBaseBinding.Position = 0
-        '
-        'DbaksarajawaDataObject
-        '
-        Me.DbaksarajawaDataObject.DataSetName = "dbaksarajawaDataObject"
-        Me.DbaksarajawaDataObject.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema
-        '
-        'TbkosakataBindingSource
-        '
-        Me.TbkosakataBindingSource.DataMember = "tb_kosakata"
-        Me.TbkosakataBindingSource.DataSource = Me.DbaksarajawaDataObject
-        '
-        'Tb_kosakataTableAdapter
-        '
-        Me.Tb_kosakataTableAdapter.ClearBeforeFill = True
         '
         'NamaDataGridViewTextBoxColumn
         '
@@ -104,6 +85,25 @@ Partial Class frm_kosa_kata
         Me.KramainggilDataGridViewTextBoxColumn.ReadOnly = True
         Me.KramainggilDataGridViewTextBoxColumn.ToolTipText = "Krama Inggil"
         '
+        'TbkosakataBindingSource
+        '
+        Me.TbkosakataBindingSource.DataMember = "tb_kosakata"
+        Me.TbkosakataBindingSource.DataSource = Me.DbaksarajawaDataObject
+        '
+        'DbaksarajawaDataObject
+        '
+        Me.DbaksarajawaDataObject.DataSetName = "dbaksarajawaDataObject"
+        Me.DbaksarajawaDataObject.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema
+        '
+        'dataBaseBinding
+        '
+        Me.dataBaseBinding.DataSource = Me.DbaksarajawaDataObject
+        Me.dataBaseBinding.Position = 0
+        '
+        'Tb_kosakataTableAdapter
+        '
+        Me.Tb_kosakataTableAdapter.ClearBeforeFill = True
+        '
         'frm_kosa_kata
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -114,9 +114,9 @@ Partial Class frm_kosa_kata
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "Kosa Kata"
         CType(Me.KosaKataData, System.ComponentModel.ISupportInitialize).EndInit()
-        CType(Me.dataBaseBinding, System.ComponentModel.ISupportInitialize).EndInit()
-        CType(Me.DbaksarajawaDataObject, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.TbkosakataBindingSource, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.DbaksarajawaDataObject, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.dataBaseBinding, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
 
     End Sub

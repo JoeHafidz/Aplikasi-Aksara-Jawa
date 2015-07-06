@@ -19,4 +19,9 @@
     Private Sub btn_contoh_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btn_contoh.Click
         frm_contoh.Show()
     End Sub
+
+    Private Sub frm_AksaraJawa_FormClosed(ByVal sender As Object, ByVal e As System.Windows.Forms.FormClosedEventArgs) Handles Me.FormClosed
+        frm_Menu.Show()
+    End Sub
+
 End Class

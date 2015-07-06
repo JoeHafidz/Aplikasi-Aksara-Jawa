@@ -24,16 +24,18 @@ Partial Class frm_Cover
     Private Sub InitializeComponent()
         Me.Label1 = New System.Windows.Forms.Label()
         Me.LblNext = New System.Windows.Forms.Label()
+        Me.Label2 = New System.Windows.Forms.Label()
         Me.SuspendLayout()
         '
         'Label1
         '
         Me.Label1.AutoSize = True
-        Me.Label1.Location = New System.Drawing.Point(0, 0)
+        Me.Label1.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label1.Location = New System.Drawing.Point(48, 35)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(107, 13)
+        Me.Label1.Size = New System.Drawing.Size(179, 25)
         Me.Label1.TabIndex = 0
-        Me.Label1.Text = "Aplikasi Aksara Jawa"
+        Me.Label1.Text = "Selamat Datang"
         '
         'LblNext
         '
@@ -45,12 +47,23 @@ Partial Class frm_Cover
         Me.LblNext.TabIndex = 1
         Me.LblNext.Text = "Lanjut"
         '
+        'Label2
+        '
+        Me.Label2.AutoSize = True
+        Me.Label2.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label2.Location = New System.Drawing.Point(6, 71)
+        Me.Label2.Name = "Label2"
+        Me.Label2.Size = New System.Drawing.Size(262, 25)
+        Me.Label2.TabIndex = 2
+        Me.Label2.Text = "di Aplikasi Aksara Jawa"
+        '
         'frm_Cover
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(284, 261)
+        Me.ClientSize = New System.Drawing.Size(272, 249)
         Me.ControlBox = False
+        Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.LblNext)
         Me.Controls.Add(Me.Label1)
         Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle
@@ -67,5 +80,6 @@ Partial Class frm_Cover
     End Sub
     Friend WithEvents Label1 As System.Windows.Forms.Label
     Friend WithEvents LblNext As System.Windows.Forms.Label
+    Friend WithEvents Label2 As System.Windows.Forms.Label
 
 End Class

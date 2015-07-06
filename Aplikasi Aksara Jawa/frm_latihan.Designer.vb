@@ -129,7 +129,7 @@ Partial Class frm_latihan
         '
         'btn_check
         '
-        Me.btn_check.Location = New System.Drawing.Point(37, 323)
+        Me.btn_check.Location = New System.Drawing.Point(151, 297)
         Me.btn_check.Name = "btn_check"
         Me.btn_check.Size = New System.Drawing.Size(75, 23)
         Me.btn_check.TabIndex = 10
@@ -139,7 +139,7 @@ Partial Class frm_latihan
         'lbl_nilai
         '
         Me.lbl_nilai.AutoSize = True
-        Me.lbl_nilai.Location = New System.Drawing.Point(148, 323)
+        Me.lbl_nilai.Location = New System.Drawing.Point(262, 297)
         Me.lbl_nilai.Name = "lbl_nilai"
         Me.lbl_nilai.Size = New System.Drawing.Size(27, 13)
         Me.lbl_nilai.TabIndex = 11
@@ -225,7 +225,7 @@ Partial Class frm_latihan
         Me.Controls.Add(Me.Label1)
         Me.Name = "frm_latihan"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
-        Me.Text = "frm_latihan"
+        Me.Text = "Latihan"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 

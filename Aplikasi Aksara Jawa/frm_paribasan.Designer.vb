@@ -31,7 +31,7 @@ Partial Class frm_paribasan
         Me.ClientSize = New System.Drawing.Size(284, 262)
         Me.Name = "frm_paribasan"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
-        Me.Text = "frm_paribasan"
+        Me.Text = "Paribasan"
         Me.ResumeLayout(False)
 
     End Sub

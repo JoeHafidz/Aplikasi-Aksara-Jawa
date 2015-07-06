@@ -61,3 +61,31 @@ D:\MyDocument\Visual Studio 2010\Projects\Aplikasi-Aksara-Jawa\Aplikasi Aksara J
 D:\MyDocument\Visual Studio 2010\Projects\Aplikasi-Aksara-Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\Aplikasi_Aksara_Jawa.Resources.resources
 D:\MyDocument\Visual Studio 2010\Projects\Aplikasi-Aksara-Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\Aplikasi Aksara Jawa.vbproj.GenerateResource.Cache
 D:\MyDocument\Visual Studio 2010\Projects\Aplikasi-Aksara-Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\Aplikasi_Aksara_Jawa.frm_terjemah.resources
+D:\DATA HAFIDZ\Aplikasi-Aksara-Jawa\Aplikasi Aksara Jawa\bin\Debug\Aplikasi Aksara Jawa.exe.config
+D:\DATA HAFIDZ\Aplikasi-Aksara-Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\Interop.WMPLib.dll
+D:\DATA HAFIDZ\Aplikasi-Aksara-Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\DATA HAFIDZ\Aplikasi-Aksara-Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\Aplikasi Aksara Jawa.vbproj.ResolveComReference.cache
+D:\DATA HAFIDZ\Aplikasi-Aksara-Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\Aplikasi Aksara Jawa.exe
+D:\DATA HAFIDZ\Aplikasi-Aksara-Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\Aplikasi Aksara Jawa.xml
+D:\DATA HAFIDZ\Aplikasi-Aksara-Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\Aplikasi Aksara Jawa.pdb
+D:\DATA HAFIDZ\Aplikasi-Aksara-Jawa\Aplikasi Aksara Jawa\bin\Debug\dbaksarajawa.accdb
+D:\DATA HAFIDZ\Aplikasi-Aksara-Jawa\Aplikasi Aksara Jawa\bin\Debug\Aplikasi Aksara Jawa.exe
+D:\DATA HAFIDZ\Aplikasi-Aksara-Jawa\Aplikasi Aksara Jawa\bin\Debug\Aplikasi Aksara Jawa.pdb
+D:\DATA HAFIDZ\Aplikasi-Aksara-Jawa\Aplikasi Aksara Jawa\bin\Debug\Aplikasi Aksara Jawa.xml
+D:\DATA HAFIDZ\Aplikasi-Aksara-Jawa\Aplikasi Aksara Jawa\bin\Debug\Interop.WMPLib.dll
+D:\DATA HAFIDZ\Aplikasi-Aksara-Jawa\Aplikasi Aksara Jawa\bin\Debug\AxInterop.WMPLib.dll
+D:\DATA HAFIDZ\Aplikasi-Aksara-Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\Aplikasi_Aksara_Jawa.frm_AksaraJawa.resources
+D:\DATA HAFIDZ\Aplikasi-Aksara-Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\Aplikasi_Aksara_Jawa.frm_Cover.resources
+D:\DATA HAFIDZ\Aplikasi-Aksara-Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\Aplikasi_Aksara_Jawa.frm_hanacaraka.resources
+D:\DATA HAFIDZ\Aplikasi-Aksara-Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\Aplikasi_Aksara_Jawa.frm_kosa_kata.resources
+D:\DATA HAFIDZ\Aplikasi-Aksara-Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\Aplikasi_Aksara_Jawa.frm_latihan.resources
+D:\DATA HAFIDZ\Aplikasi-Aksara-Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\Aplikasi_Aksara_Jawa.frm_Menu.resources
+D:\DATA HAFIDZ\Aplikasi-Aksara-Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\Aplikasi_Aksara_Jawa.frm_paribasan.resources
+D:\DATA HAFIDZ\Aplikasi-Aksara-Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\Aplikasi_Aksara_Jawa.frm_terjemah.resources
+D:\DATA HAFIDZ\Aplikasi-Aksara-Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\Aplikasi_Aksara_Jawa.Resources.resources
+D:\DATA HAFIDZ\Aplikasi-Aksara-Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\Aplikasi Aksara Jawa.vbproj.GenerateResource.Cache
+D:\DATA HAFIDZ\Aplikasi-Aksara-Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\Aplikasi_Aksara_Jawa.frm_aksara_angka.resources
+D:\DATA HAFIDZ\Aplikasi-Aksara-Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\Aplikasi_Aksara_Jawa.Frm_Pasangan.resources
+D:\DATA HAFIDZ\Aplikasi-Aksara-Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\Aplikasi_Aksara_Jawa.frm_sandangan.resources
+D:\DATA HAFIDZ\Aplikasi-Aksara-Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\Aplikasi_Aksara_Jawa.frm_parikan.resources
+D:\DATA HAFIDZ\Aplikasi-Aksara-Jawa\Aplikasi Aksara Jawa\obj\x86\Debug\Aplikasi_Aksara_Jawa.frm_contoh.resources

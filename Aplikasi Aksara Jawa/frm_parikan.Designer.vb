@@ -22,8 +22,17 @@ Partial Class frm_parikan
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        components = New System.ComponentModel.Container
+        Me.SuspendLayout()
+        '
+        'frm_parikan
+        '
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.Text = "frm_parikan"
+        Me.ClientSize = New System.Drawing.Size(284, 262)
+        Me.Name = "frm_parikan"
+        Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
+        Me.Text = "Parikan"
+        Me.ResumeLayout(False)
+
     End Sub
 End Class
